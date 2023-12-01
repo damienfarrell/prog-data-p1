@@ -1,10 +1,10 @@
-![Banner Image](./markdown-image-files/PROGRAMMING_FOR_DATA_ANALYSIS_PROJECT_1.png)
+![Banner Image](./markdown-image-files/PROGRAMMING_FOR_DATA_ANALYSIS.png)
 ---
 ![GitHub last commit](https://img.shields.io/github/last-commit/damienfarrell/prog-data-p1)
 ![GitHub contributors](https://img.shields.io/github/contributors/damienfarrell/prog-data-p1)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/damienfarrell/prog-data-p1)
 
-# Project
+# Project One
 ---
 
 **Problem Statement**
@@ -20,4 +20,4 @@ Specifically, in this project you should:
 
 - Detail your research and implement the simulation in a Jupyter notebook – the data set itself can simply be displayed in an output cell within the notebook.
 
-Note that this project is about simulation – you must synthesise a data set. Some students may already have some real-world data sets in their own files. It is okay to base your synthesised data set on these should you wish (please reference it if you do), but the main task in this project is to create a synthesised data set. The next section gives an example project idea
+Note that this project is about simulation – you must synthesise a data set. Some students may already have some real-world data sets in their own files. It is okay to base your synthesised data set on these should you wish (please reference it if you do), but the main task in this project is to create a synthesised data set.
