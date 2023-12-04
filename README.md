@@ -7,6 +7,10 @@
 # Project One
 ---
 
+**Repository**
+
+This repository contains my submission for the Programming for Data Analysis module Project 1 at ATU as part of the ATU HDip in Data Analytics. The body of the work is in the Jupyter Notebook. The Jupyter Notebook Project_1.ipynb can be viewed directly in this GitHub repository in a browser.
+
 **Problem Statement**
 
 For this project you must create a data set by simulating a real-world phenomenon of your choosing. You may pick any phenomenon you wish – you might pick one that is of interest to you in your personal or professional life. Then, rather than collect data related to the phenomenon, you should model and synthesise such data using Python. We suggest you use the numpy.random package for this purpose.
